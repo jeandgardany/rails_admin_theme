@@ -99,3 +99,4 @@ $(function () {
 
 Example: 
 https://github.com/rollincode/rollinbox
+# rails_admin_theme
